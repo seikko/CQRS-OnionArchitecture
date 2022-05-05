@@ -1,0 +1,7 @@
+﻿Birincil sorumluluğu kuralları koymaktır. Arayüzler vs. tanımlanır.
+
+Uygulama genelinde kullanılacak olan objelerin tanıumlandığı katmandır.
+
+
+1. Servislerin kurallarını belirleyen interfaceler yahut abstract classlar burada tanımlanır. Lakin bu arayüzxlerin implemente edilmiş sınıfları ise infrasstructer da tanımlanır.
+2. Servis yapılanmasının dışında ne varsa burada tanımlanır. Entityler hariç. Domainde tanımlanır.

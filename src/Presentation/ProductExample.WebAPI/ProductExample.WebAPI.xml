@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProductExample.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:ProductExample.WebAPI.Controllers.ProductsController">
+            <summary>
+            Product controller açıklaması
+            </summary>
+        </member>
+        <member name="M:ProductExample.WebAPI.Controllers.ProductsController.Post(ProductExample.Application.Dtos.ProductDTO.ProductCreateDTO)">
+            <summary>
+            Ürün ekler
+            </summary>
+            <param name="model">Ürün...</param>
+            <returns>Geri dönüş değer..</returns>
+        </member>
+    </members>
+</doc>
